@@ -1,0 +1,103 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+
+    background-image: url("https://www.onlygfx.com/wp-content/uploads/2018/09/5-comic-burst-background-cover.png");
+    background-repeat: repeat;
+    background-position: auto;
+    background-attachment: scroll;
+    padding: 30px;
+}
+div{
+    text-align: center;
+    margin: auto;
+    width: 255px;
+}
+input:focus{
+    outline: none;
+}
+select:focus{
+    outline: none;
+}
+.input{
+    width: 200px;
+    height: 30px;
+    border-radius: 25px;
+    color: white;
+    background-color: #0055D4;
+}
+.e2{
+    border-radius: 10px;
+    width: 250px;
+    height: 20px;
+    text-align: left;
+}
+.e3{
+    text-align: center;
+    width: 59px;
+    height: 20px;
+    border-radius: 5px;
+}
+.e4{
+    width: 120px; height:26px;
+    text-align: center;
+    border-radius: 5px;
+}
+.a2{
+    width: 180px;
+    height: 50px;
+    margin: auto;
+    border: 1px solid gray;
+    text-align: left;
+    background: #80B3FF;
+    border-radius: 5px;
+
+}
+.input2{
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    background: #1DB954;
+}
+.edoo{
+    width: 70%;
+    margin: auto;
+}
+
+.edo{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 20%;
+    overflow: hidden;
+    
+}
+.edo:hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
+img{
+    transition: transform 1s;
+}
+img:hover{
+    transform: scale(1.5)
+}
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.tbl{
+    width: 100%;
+    padding-top: 70px;
+}
+table{
+    margin: 0 auto;
+    background: #80B3FF;
+}
+th,td{
+    padding: 15px;
+}
